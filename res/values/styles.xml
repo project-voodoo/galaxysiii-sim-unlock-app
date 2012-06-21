@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="title" parent="android:Widget.Holo.TextView">
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+    <style name="paragraph" parent="android:Widget.Holo.TextView">
+        <item name="android:paddingBottom">24dp</item>
+    </style>
+</resources>

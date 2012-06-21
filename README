@@ -1,0 +1,52 @@
+This is Voodoo Galaxy S III SIM Unlock application,available on Google Play:
+https://play.google.com/store/apps/details?id=org.projectvoodoo.simunlock
+
+What you have here is open source code, published under my favourite WTFPL
+license: http://sam.zoy.org/wtfpl/
+Guess what it means...
+
+Please change the strings and names if you want to publish a clone of the app,
+You could be even nicer by contributing to this one directly ;)
+
+Also if you find bugs in the source code, especially critical & security ones
+please contact me as soon as possible.
+
+Original source code location:
+	https://github.com/project-voodoo/galaxysiii-sim-unlock-app
+
+
+
+Author:
+
+Simond François aka supercurio
+	http://twitter.com/#!/supercurio
+
+Unlocking method by txlibre:
+	http://forum.xda-developers.com/showthread.php?t=1715149
+Adapted from this original work from many contributors:
+	http://forum.xda-developers.com/showthread.php?t=761045
+
+
+
+TODO:
+
+Current version has one known issue (not a big one) which is the secret code
+*#7465625# popping up system "Personalization Status" tool only at second
+attempt.
+
+
+One missing feature is backup restoration and re-locking.
+Thing is restoring from a backup stored on sdcard is unsafe by design, because
+this backup could be altered by mistake or malicious tools.
+Also, if something went wrong it might be a good idea to restore backups
+manually after careful analyss, as you know, things are not not supposed
+to go wrong with this app^^
+
+Re-locking however is a trivial operation and shall be implemented if it's
+a common feature request.
+
+
+Of course you might have noticed that the app is ugly as hell.
+This is kind of intended as people notice immediately it's a hacker tool
+instead of a commercial polished solution they'll complain about to the author,
+but if you feel like contributing with a beautiful yet simple UI.. why not!

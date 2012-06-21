@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voodoo Galaxy S III SIM unlock</string>
+    <string name="imei">IMEI: </string>
+    <string name="imei_error">Error reading IMEI</string>
+    <string name="button_query_personalization_status">Query SIM lock as seen from system</string>
+    <string name="locking_status_pending">SIM lock: status pending</string>
+    <string name="locking_status_active">SIM lock: active</string>
+    <string name="locking_status_inactive">SIM lock: inactive</string>
+    <string name="locking_status_error">SIM lock: read error</string>
+    <string name="button_run_sim_unlock">Unlock!</string>
+    <string name="title_status">Status</string>
+    <string name="title_actions">Action</string>
+    <string name="incompatible_device_title">Incompatible device:</string>
+    <string name="incompatible_device_desc">This device is not recognized as compatible with Galaxy S III SIM unlock tool.\nLets take a look at the app description on Google play to discover the list of supported devices.\n\nhttps://play.google.com/store/apps/details?id=org.projectvoodoo.simunlock</string>
+    <string name="no_root_permission">No root permission:</string>
+    <string name="no_root_desc">Ew, unlock tool could not gain root permission.\nMake sure your device is rooted and to allow superuser requests to the app when asked.\n</string>
+    <string name="title_about">About</string>
+    <string name="no_warranty">This free application is provided without any warranty nor support. Murphy\'s law teach us it might damage your phone or even worse.\nIf you were charged for it, get a refund.</string>
+    <string name="author">Application author:\nFrançois SIMOND aka supercurio\nTwitter feed: http://twitter.com/supercurio</string>
+    <string name="method">Unlocking method:\ntxlibre\nAs published on XDA: http://forum.xda-developers.com/showthread.php?t=1715149\nBased on dagentooboy original work: http://forum.xda-developers.com/showthread.php?t=761045</string>
+</resources>

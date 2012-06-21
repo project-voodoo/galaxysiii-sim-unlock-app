@@ -1,0 +1,6 @@
+proguard/
+res/drawable-*/ic_launcher.png
+bin/
+gen/
+.classpath
+.project
